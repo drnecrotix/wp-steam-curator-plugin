@@ -1,4 +1,5 @@
 === BG-GAMER Steam Curator Widget ===
+
 Contributors: BG-GAMER
 Tags: steam, curator, widget, shortcode, steam games
 Requires at least: 6.0
